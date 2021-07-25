@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+input{
+  width:280px;
+  height:30px;
+  border-radius: 5px;
+  margin:10px auto;
+  padding:1px 5px;
+  border: 2px solid black;
+}
+button{
+  width:280px;
+  height:35px;
+  padding:5px;
+  margin:10px auto;
+  background-color:black;
+  border-radius: 5px;
+  color:white;
+}
