@@ -21,10 +21,10 @@ function App() {
               <Mini/>
           </Route>
           <Route  path="/mango-roadlines">
-              <Mini/>
+              <Mango/>
           </Route>
           <Route  path="/third">
-              <Mini/>
+              <Third/>
           </Route>
         </Switch>
     </div>
